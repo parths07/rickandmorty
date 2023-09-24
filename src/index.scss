@@ -1,0 +1,157 @@
+@font-face {
+  font-family: Rubik-300;
+  src: url("assets/font/SourceSansPro-Light.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: Shorelines;
+  src: url("./assets/font/Shorelines Script Bold.otf");
+  font-display: swap;
+}
+@font-face {
+  font-family: Rubik-Italic-300;
+  src: url("assets/font/SourceSansPro-LightItalic.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: Rubik-400;
+  src: url("assets/font/SourceSansPro-Regular.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: Rubik-Italic-400;
+  src: url("assets/font/static/Rubik-Italic.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: Rubik-600;
+  src: url("assets/font/SourceSansPro-Semibold.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: Rubik-Italic-600;
+  src: url("assets/font/SourceSansPro-SemiboldItalic.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Rubik-700;
+  src: url("assets/font/SourceSansPro-Bold.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: Rubik-Italic-700;
+  src: url("assets/font/SourceSansPro-BoldItalic.ttf");
+  font-display: swap;
+}
+
+////////////////////font class//////////////////////
+//////////////////////////////////////////////////////////////////////
+.R-300 {
+  font-family: Rubik-300;
+}
+.RI-300 {
+  font-family: Rubik-Italic-300;
+}
+.R-400 {
+  font-family: Rubik-400;
+}
+.RI-400 {
+  font-family: Rubik-Italic-400;
+}
+.R-500 {
+  font-family: Rubik-500;
+}
+.RI-500 {
+  font-family: Rubik-Italic-500;
+}
+.R-600 {
+  font-family: Rubik-600;
+}
+.RI-600 {
+  font-family: Rubik-Italic-600;
+}
+.R-700 {
+  font-family: Rubik-700;
+}
+.RI-700 {
+  font-family: Rubik-Italic-700;
+}
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+/// Font Size class
+.fl-54-68 {
+  font-size: 3.375rem;
+  line-height: 4.25rem;
+}
+.fl-40-48 {
+  font-size: 2.5rem;
+  line-height: 3rem;
+}
+
+.fl-32-44 {
+  font-size: 2rem;
+  line-height: 2.75rem;
+}
+.fl-32-40 {
+  font-size: 2rem;
+  line-height: 2.5rem;
+}
+.fl-36-54 {
+  font-size: 2.25rem;
+  line-height: 3.375rem;
+}
+.fl-28-40 {
+  font-size: 1.75rem;
+  line-height: 2.5rem;
+}
+.fl-23-34 {
+  font-size: 1.438rem;
+  line-height: 2.125rem;
+}
+.fl-20-30 {
+  font-size: 1.25rem;
+  line-height: 1.875rem;
+}
+.fl-18-24 {
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+}
+.fl-24-36 {
+  font-size: 1.5rem;
+  line-height: 2.25rem;
+}
+.fl-18-28 {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+.fl-14-22 {
+  font-size: 0.875rem;
+  line-height: 1.375rem;
+}
+.fl-14-18 {
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+}
+.fl-16-24 {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+.fl-14-20 {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+.fl-12-18 {
+  font-size: 0.75rem;
+  line-height: 1.125rem;
+}
+
+.fl-10-16 {
+  font-size: 0.625rem;
+  line-height: 1rem;
+}
+.fl-10-14 {
+  font-size: 0.625rem;
+  line-height: 0.875rem;
+}

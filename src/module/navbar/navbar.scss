@@ -1,0 +1,11 @@
+.header-sticky {
+  top: env(safe-area-inset-top);
+  // position: sticky;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  width: 100%;
+  padding: 0px;
+  display: flex;
+  position: fixed;
+}
